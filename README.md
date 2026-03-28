@@ -1,20 +1,5 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=650&lines=Hi%2C+I'm+Anjali+%F0%9F%91%8B+;Software+Engineer;Backend+Developer+%7C+3%2B+Years+Experience+Building+Scalable+Systems+%F0%9F%9A%80" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Anjali+👋;Software+Engineer;Backend+Developer+%7C+3%2B+Years+Experience;Building+Scalable+Systems;APIs+%7C+System+Design+%7C+Performance&center=true&width=650&height=50">
-</p>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hi%2C+I'm+Anjali+%F0%9F%91%8B+;Software+Engineer;Backend+Developer+%7C+3%2B+Years+Experience+Building+Scalable+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
-# Hi, I'm Anjali 👋
-### Software Engineer | Backend & Scalable Systems
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Anjali+👋;Software+Engineer;Backend+Developer+%7C+3%2B+Years+Experience;Building+Scalable+Systems;APIs+%7C+System+Design+%7C+Performance&center=true&width=650&height=50">
-</p>
-
----
+<h1 align="center">Hi 👋, I'm Anjali Sharan</h1>
+<h3 align="center">Software Engineer | Backend & Scalable Systems | 3+ years of Experience</h3>
 
 ## 🧠 About Me
 
@@ -29,24 +14,37 @@
 
 ### 🚀 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge\&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=java)
 
-### ⚙️ Backend
+### ⚙️ Backend Frameworks
 
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+![FastApi](https://img.shields.io/badge/FastApi-black?style=for-the-badge\&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-black?style=for-the-badge\&logo=django)
 
 ### 🗄️ Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
+![Sqlite3](https://img.shields.io/badge/Sqlite3-black?style=for-the-badge\&logo=sqlite3)
+![PostgreSql](https://img.shields.io/badge/PostgreSql-black?style=for-the-badge\&logo=postgresql)
+
+### ⚡ Performance
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge\&logo=redis)
+
+### 🔧 DevOps
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge\&logo=nginx)
 
 ### 🛠️ Tools & Others
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/Html-black?style=for-the-badge\&logo=html)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge\&logo=css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge\&logo=bootstrap)
 
 ---
 
@@ -85,7 +83,6 @@
 * 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
 * 📧 Email: [your.email@example.com](mailto:your.email@example.com)
 
----
 
 <!--
 **AnjaliSharan17/AnjaliSharan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
