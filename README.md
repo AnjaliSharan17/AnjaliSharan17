@@ -10,6 +10,22 @@
 
 ---
 
+## 🔭 Current Focus
+
+* Building scalable backend systems using FastAPI, asyncio and websockets
+* Learning system design and distributed systems
+* Exploring Redis and performance optimization
+  
+---
+
+## 💡 Core Strengths
+* Designing RESTful APIs
+* Backend architecture & clean code practices
+* Database design and optimization
+* Testing, debugging, deployment and performance tuning
+ 
+---
+
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages
@@ -70,6 +86,7 @@
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 ![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
@@ -77,11 +94,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
 
 ---
+-->
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/anjali-sharan-979799208/]
+* 📧 Email: [anjalisharan17@gmail.com](mailto:anjalisharan17@gmail.com)
 
 
 <!--
