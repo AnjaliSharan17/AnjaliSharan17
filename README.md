@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anjali Sharan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Backend+Developer;3%2B+Years+Experience;FastAPI+%7C+Django+%7C+Redis&center=true&width=500&height=45">
+</p>
+<!--
+Add github stats after 1-2 projects are created.
 <h3 align="center">Software Engineer | Backend & Scalable Systems | 3+ years of Experience</h3>
+-->
 
 ## 🧠 About Me
 
@@ -35,14 +41,14 @@
 
 ### ⚙️ Backend Frameworks
 
-![FastApi](https://img.shields.io/badge/FastApi-black?style=for-the-badge\&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastApi-black?style=for-the-badge\&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-black?style=for-the-badge\&logo=django)
 
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
 ![Sqlite3](https://img.shields.io/badge/Sqlite3-black?style=for-the-badge\&logo=sqlite3)
-![PostgreSql](https://img.shields.io/badge/PostgreSql-black?style=for-the-badge\&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSql-black?style=for-the-badge\&logo=postgresql)
 
 ### ⚡ Performance
 ![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge\&logo=redis)
@@ -63,7 +69,14 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge\&logo=bootstrap)
 
 ---
+## 🚀 Upcoming Projects
 
+- 🔹 Real-Time Chat System (FastAPI + WebSockets + Redis)
+- 🔹 URL Shortener with Analytics (Django + PostgreSQL + Caching)
+- 🔹 Expense Tracking API (Django REST Framework)
+
+> Currently building these projects with focus on scalability, performance, and clean architecture.
+<!--
 ## 🚀 Featured Projects
 
 ### 🔹 Real-Time Chat Application
@@ -83,7 +96,7 @@
 * REST API for managing user expenses and insights
 * Focus on clean architecture and performance
 * Tech: Node.js, Express, MySQL
-
+-->
 ---
 
 <!--
